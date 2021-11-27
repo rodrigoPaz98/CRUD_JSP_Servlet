@@ -1,2 +1,5 @@
 # CRUD_JSP_Servlet
-Demo de operaciones básicas (CRUD) con lenguaje Java utilizando JSP y Servlets, base de datos MySQL
+Ejemplo de aplicación Java web con operaciones básicas (CREATE-READ-UPDATE-DELETE)
+Tecnologías utilzadas:
+  .JSP
+  .Servlets
