@@ -1,2 +1,2 @@
 # CRUD_JSP_Servlet
-Demo CRUD with JSP and Servlets
+Demo de operaciones básicas (CRUD) con lenguaje Java utilizando JSP y Servlets, base de datos MySQL
